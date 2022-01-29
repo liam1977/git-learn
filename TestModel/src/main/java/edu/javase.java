@@ -13,7 +13,9 @@ public class javase {
 
     private String name;
     private String no;
-
+    /** id */
+    private Integer id;
+    // id
     public static void main(String[] args) {
         System.out.println("hello");
     }
