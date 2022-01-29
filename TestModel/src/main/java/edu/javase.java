@@ -11,6 +11,9 @@ package edu;
  */
 public class javase {
 
+    private String name;
+    private String no;
+
     public static void main(String[] args) {
         System.out.println("hello");
     }
